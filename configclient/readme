@@ -1,0 +1,9 @@
+
+원본 
+	https://github.com/briansjavablog/micro-services-spring-cloud-config
+
+curl -i -H "Content-Type: application/json" -X POST -d '{"accountId":"B12345","accountName":"Joe Bloggs","accountType":"CURRENT_ACCOUNT","accountBlance":1250.38}' localhost:8080/bank-account
+
+
+
+http://localhost:8888/uat
